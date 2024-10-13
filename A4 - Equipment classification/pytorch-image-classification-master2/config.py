@@ -1,7 +1,7 @@
 
 class MyConfigs():
 
-    data_folder = '/opt/1/pytorch-image-classification-master2/input_data/'
+    data_folder = './input_data/'
     test_data_folder = ""
     model_name = "resnet" #Vgg ResNet152 myModel
     weights = "./checkpoints/"
